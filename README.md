@@ -1,4 +1,4 @@
-# Travel Package System (Java)
+# Travel Package System
 
 ## Introduction
 The Travel Package System is a sophisticated Java application designed for travel agencies to manage various travel packages. This system allows agencies to create packages with multiple destinations and activities, and to manage customer enrollments with ease.
